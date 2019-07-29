@@ -1,1 +1,2 @@
-alert('develop branch)
+alert('develop branch');
+alert('add feature');
